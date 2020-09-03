@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\obj\Debug\netcoreapp3.1\howoldareyou.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\obj\Debug\netcoreapp3.1\howoldareyou.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\obj\Debug\netcoreapp3.1\howoldareyou.AssemblyInfo.cs
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\obj\Debug\netcoreapp3.1\howoldareyou.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\bin\Debug\netcoreapp3.1\howoldareyou.exe
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\bin\Debug\netcoreapp3.1\howoldareyou.deps.json
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\bin\Debug\netcoreapp3.1\howoldareyou.runtimeconfig.json
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\bin\Debug\netcoreapp3.1\howoldareyou.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\bin\Debug\netcoreapp3.1\howoldareyou.dll
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\bin\Debug\netcoreapp3.1\howoldareyou.pdb
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\obj\Debug\netcoreapp3.1\howoldareyou.dll
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\obj\Debug\netcoreapp3.1\howoldareyou.pdb
+C:\Users\opilane\source\repos\howoldareyou\howoldareyou\obj\Debug\netcoreapp3.1\howoldareyou.genruntimeconfig.cache
